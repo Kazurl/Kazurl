@@ -17,23 +17,28 @@
 
 <h2 align="center">🤝 Connect With Me 🤝</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/bernard-chiang-38b101206/" target="blank">
+  <a href="https://www.linkedin.com/in/bernard-chiang-38b101206/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/bc00827" target="blank">
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/bc00827" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:bczh2000@gmail.com">
       <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
-  <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" width="40%" height="1" alt=""/>
+  <br><br>
   <a href="https://github.com/Kazurl?tab=followers">
        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Kazurl?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
-    <a href="https://github.com/Kazurl?tab=repositories&sort=stargazers">
+  &nbsp;&nbsp;
+  <a href="https://github.com/Kazurl?tab=repositories&sort=stargazers">
        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Kazurl?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
     </a>
 </p>
+
+
 
 
 ---
