@@ -1,3 +1,5 @@
+<!-- Short Intro/ Summary -->
+
 # 🦥 Bernard Chiang
   **`Fresh Graduate | Aspiring SWE`**
 
@@ -8,7 +10,10 @@
 - ⚡ Fun fact: I love travelling, good food, and sports
 - 📫 How to reach me [bczh2000@gmail.com](mailto:bczh2000@gmail.com)
 
+
 ---
+
+<!-- Socials -->
 
 <h2 align="center">🤝 Connect With Me 🤝</h2>
 <p align="center">
@@ -30,7 +35,9 @@
     </a>
 </p>
 
+
 ---
+
 
 ## 🚀 Flagship Project
 
@@ -38,61 +45,78 @@
 A simple **financial platform** for options modeling, visualization, live data communication, and potentially personal strategy backtesting.  
 > 📊 Think of it as a playground where finance meets data-driven tooling.  
 
+
 ---
+
 
 <!-- Skills -->
 
 ## 🛠️ Tech Stack
 
-### 💻 Backend
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)  
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+<table>
+  <tr>
+    <th>💻 Backend</th>
+    <th>🎨 Frontend</th>
+    <th>🗄️ Databases</th>
+    <th>📊 Data & ML</th>
+    <th>⚙️ DevOps</th>
+    <th>🧰 Tools</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" title="Python"><br>
+      <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java" title="Java"><br>
+      <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C" title="C"><br>
+      <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" alt="C++" title="C++"><br>
+      <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" title="Node.js"><br>
+      <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" alt="Express" title="Express"><br>
+      <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI" title="FastAPI">
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" title="React"><br>
+      <img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" alt="React Native" title="React Native"><br>
+      <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js" title="Next.js"><br>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" alt="TypeScript" title="TypeScript"><br>
+      <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" alt="Django" title="Django"><br>
+      <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" alt="CSS3" title="CSS3"><br>
+      <img src="https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white" alt="HTML5" title="HTML5"><br>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS" title="Tailwind CSS"><br>
+      <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" alt="Bootstrap" title="Bootstrap">
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" alt="PostgreSQL" title="PostgreSQL"><br>
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" alt="MongoDB" title="MongoDB"><br>
+      <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" alt="Redis" title="Redis"><br>
+      <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white" alt="MySQL" title="MySQL">
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white" alt="SQL" title="SQL"><br>
+      <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas" title="Pandas"><br>
+      <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy" title="NumPy"><br>
+      <img src="https://img.shields.io/badge/Matplotlib-000000?logo=matplotlib&logoColor=white" alt="Matplotlib" title="Matplotlib"><br>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch" title="PyTorch"><br>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow" title="TensorFlow">
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" title="Docker"><br>
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes" title="Kubernetes">
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" title="Git"><br>
+      <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" title="GitHub"><br>
+      <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux" title="Linux"><br>
+      <img src="https://img.shields.io/badge/VSCode-0078D4?logo=visual-studio-code&logoColor=white" alt="VSCode" title="VSCode"><br>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman" title="Postman"><br>
+      <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white" alt="Unity" title="Unity"><br>
+      <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white" alt="Blender" title="Blender"><br>
+      <img src="https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white" alt="Android Studio" title="Android Studio">
+    </td>
+  </tr>
+</table>
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
-![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
-
-### 🗄️ Databases
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)  
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
-
-### 📊 Data & ML
-![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?logo=matplotlib&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-
-### ⚙️ DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)  
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?logo=visual-studio-code&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)  
-![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)  
-![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white)  
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white)
 
 ---
+
 
 <!-- Github Analytics -->
 
@@ -114,7 +138,9 @@ A simple **financial platform** for options modeling, visualization, live data c
   </a>
 </p>
 
+
 ---
+
 
 <!-- Repositories -->
 
