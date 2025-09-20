@@ -44,7 +44,10 @@
 ---
 
 
-## 🚀 Flagship Project
+## 🚀 Flagship Projects
+
+### [Budly](https://github.com/Kazurl/music-chat-app)
+A spotify clone with realtime messaging features with connections. Access it directly on **[Budly](https://budly.onrender.com/)**
 
 ### [OptiML](https://github.com/Kazurl/OptiML)
 A simple **financial platform** for options modeling, visualization, live data communication, and potentially personal strategy backtesting.  
